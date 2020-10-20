@@ -14,6 +14,8 @@ It’s listed under the “Sketch>Library” dropdown menu.
 
 Then, we can search for and install the Adafruit NeoPixel Library. 
 
+### Please read the [Adafruit NeoPixel Best Practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) guide before connecting your NeoPixels, it will save you a lot of time and effort.
+
 # Following tutorials are aimed at giving you a basic understanding of niopixel library
 
 #### [How to Control WS2812 RGB LED (NeoPixel) w/ Arduino](https://electropeak.com/learn/control-ws2812-rgb-led-neopixel-w-arduino-tutorial/)
