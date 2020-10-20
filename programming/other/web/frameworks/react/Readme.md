@@ -1,4 +1,4 @@
-#React
+# React
  
 ReactJS is a javascript _library_ used to build user interfaces. It was developed and released by facebook in 2013 and now has a big community of developers using and maintaining ReactJS
 
