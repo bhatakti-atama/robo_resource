@@ -16,7 +16,7 @@
 
 ## Advanced
 
-When you get comfortable with React and have made some good projects (_Check out [this playlist](https://www.youtube.com/playlist?list=PLUOLi8YAwJIKq-FjGssUJQPUNhalEfPhw) to get walkthroughs of some basic web projects with React_); you could start to learn some advanced technologies like:\
+When you get comfortable with React and have made some good projects (_Check out [this playlist](https://www.youtube.com/playlist?list=PLUOLi8YAwJIKq-FjGssUJQPUNhalEfPhw) to get walkthroughs of some basic web projects with React_); you could start to learn some advanced technologies like:
 
 1. [*Gatsby*](https://www.gatsbyjs.com/): Gatsby is a `static site generator` that helps you build fast websites using React and [GraphQL](https://youtu.be/ZQL7tL2S0oQ)(_don't get overwhelmed; if you know how to read JSON, GraphQL won't be hard to learn_)
 
