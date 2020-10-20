@@ -4,7 +4,7 @@
 
 [Tutorials by Jeremy Blum](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84) The first video is a fantastic introduction to the scope of Arduino, or a refresher if you're coming back to Arduino from some time away. It also introduces you to the programming environment, and how to make an LED on the Arduino blink. Later videos cover topics such as electrical engineering basics, motors and transistors, making a simple security system with RFID tags, making a holiday lights & sounds display, and GPS tracking.
 
-You can also choose from various free tutorials for beginners given [here](https://gitconnected.com/learn/arduino)
+You can also choose from [here](https://gitconnected.com/learn/arduino). This page contains some of the highly recommended courses and tutorials on arduino for beginners.
 
 # Official Documentation
 
