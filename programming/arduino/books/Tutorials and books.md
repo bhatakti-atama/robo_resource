@@ -12,6 +12,6 @@ You can choose from various free tutorials for beginners given [here](https://gi
 
 # Books and tutorials
 
-[Adafruit Arduino Tutorials and Projects](https://learn.adafruit.com/category/learn-arduino) Tutorials by Simon Monk for beginners as well as intermediate
+[Adafruit Arduino Tutorials and Projects](https://learn.adafruit.com/category/learn-arduino) by Simon Monk Learn about arduino by making projects for beginners as well as intermediate
 
 [Exploring Arduino Tools and Techniques for Engineering Wizardry by Jeremy Blum](https://www.engineeringbookspdf.com/download/?file=12647) A Introduction to microcontrollers and arduino. Learn step by step everything you need to know about electrical engineering, programming, and human-computer interaction through a series of increasingly complex projects.
