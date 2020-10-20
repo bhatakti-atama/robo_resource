@@ -4,9 +4,28 @@ A NeoPixel is just a name that Adafruit uses to refer to a bunch of different RG
 
 # Why Neopixel?
 
-NeoPixel LEDs represent the first widely available DIY form of digital RGB LEDs with example code, libraries and supporting content to make them useable for makers everywhere. From just a single pin you can control a (theoretically) as many LEDs as you want(an Arduino Uno has 2kb of memory. One Neopixel led uses 3 bytes of memory. That means you can drive about 600 Neopixels, or a bit less, depending on the size of the rest of your program), however, there are a few limitations. Namely that each LED consumes a few bytes of RAM, and because of the relatively low speed of data, once you use more than a few hundred LEDs, you may start to notice slight buffering time across the pixels. Because of the slow (400Hz) refresh/PWM cycle, NeoPixels can't be used reliably for POV (Persistance of Vision) displays, or anything that requires high FPS.
+There are multiple competing libraries, FastLED being the biggest and Adafruit NeoPixel being the most common for beginners.
 
-NeoPixels, however, are incredibly cheap, especially compared to DotStar LEDs.
+On ESP8226, your primary choices are:
+
+##### NeoPixelBus
+* Smaller than FastLED, more features and pixel support than esp8266_ws2812_i2s
+* On Esp8266 you can choose i2s DMA or UART, both avoiding interrupts (NMIs). FastLED uses interrupts which can be problematic if you use other code that relies on interrupts, or wifi (although FastLED allows other fast interrupts to fire in between pixel updates)
+* Supports RGBW pixels (not supported by the other 2 libraries)
+* Uses I2S interface to drive Neopixels via DMA providing an asynchronous update.
+* Can use UART both in a synchronous and asynchronous model, but asynchronous limits the use of other UART libraries.
+* Low level API with other features exposed by external classes.
+* Pins available for use varies by platform due to hardware limitations.
+* ESP32 support for using both RMT and i2s. RMT timing currently is sensitive to high interrupt frequency due to issues in the Core.
+
+##### FastLED
+* Very rich API, although at a cost of large code and memory size
+* Interrupt driven on ESP8266, so it's sensitive to timing.
+* ESP32 support uses RMT which currently is sensitive to timing.
+##### Adafruit::NeoPixel
+* Basic bit bang and interrupt driven library which does not support any other interrupt driven code to work. Not recommended.
+
+On ESP32, both FastLED and NeoPixelBus can provide more than one channel/bus. FastLED primarily uses RMT to support 8 parallel channels. NeoPixelBus now supports the RMTs 8 channels and two more channels using i2s. Parallel channels provides for better refresh rate on longer strings (useful past 256 pixels). But do note that the latest cores have issues with high interrupt frequency causing timing issues.
 
 # Installing Neopixel library
 
@@ -14,9 +33,11 @@ It’s listed under the “Sketch>Library” dropdown menu.
 
 Then, we can search for and install the Adafruit NeoPixel Library. 
 
+### Please read the [Adafruit NeoPixel Best Practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) guide before connecting your NeoPixels, it will save you a lot of time and effort.
+
 # Following tutorials are aimed at giving you a basic understanding of niopixel library
 
-#### [How to Control WS2812 RGB LED (NeoPixel) w/ Arduino](https://electropeak.com/learn/control-ws2812-rgb-led-neopixel-w-arduino-tutorial/)
+#### [How to Control WS2812 RGB LED (NeoPixel) w/ Arduino](https://electropeak.com/learn/control-ws2812-rgb-led-neopixel-w-arduino-tutorial/) Learn to interface neopixel with arduino
 
 #### [Adafruit’s NeoPixel Guide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels) provides a great overview of what the WS2812 LEDs (aka NeoPixels) are and how to get started with them.
 
