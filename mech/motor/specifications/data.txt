@@ -1,0 +1,10 @@
+|S. no. |	Motor|	Output speed	|Operating voltage|
+|:-------|:--------|:---------|:--------|:-----------|
+|1.	|N20 6V Micro Metal Motor| 	|100RPM|	3-6 V|
+
+S. no. 	Motor	Output speed	Operating voltage	 size	Shaft 
+type	Price	Stall current	No-Load current	Rated Voltage
+1.	N20 6V Micro Metal Motor 	100RPM	3-6 V	3*10mm	D type	Rs 560-650	1A	10mA	DC 6V
+2.	N20 6V Micro Metal Motor	200RPM	3-6V	3*10mm	D type	Rs 560-650	0.67A	30mA	DC 6V
+3.	N20  12V Micro metal motor 	300RPM	6-12V	6*6*2cm	D type single side	Rs 314-350	0.75A	0.06A	DC 12V
+4.	N20  12V Micro Metal Motor	600 RPM	6-12V	6*6*3cm	D-type single side	Rs 314-350	0.75A	0.06A	12 V
