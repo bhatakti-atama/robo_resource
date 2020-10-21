@@ -4,12 +4,11 @@
     blink an LED, switches or connect to more complex components. They use 5V for HIGH signals, and 0V for LOW signals. </p>
 <p> Starting from the right... </p>
 
-    +  The two pins labelled 0 (RX) and 1 (TX) are the two Serial pins that are used to send data to and from the Arduino to the USB-Serial translator chip. 
++  The two pins labelled 0 (RX) and 1 (TX) are the two Serial pins that are used to send data to and from the Arduino to the USB-Serial translator chip. 
        <b> Don't connect anything to Digital 0 or 1 unless you are super sure because it will affect Arduino's ability to communicate!</b>
 
-    +  Digital 2 through Digital 13 are normal digital pins. These pins can be used for both digital input (like telling if a button is pushed) and digital output (like          powering an LED). Digital 13 is also connected to the L LED. When used the L LED will also blink at the same time.
-       
-       To use these pins, following functions are used:
++  Digital 2 through Digital 13 are normal digital pins. These pins can be used for both digital input (like telling if a button is pushed) and digital output (like          powering an LED). Digital 13 is also connected to the L LED. When used the L LED will also blink at the same time.
+   To use these pins, following functions are used:
   
    #### pinMode (pin_number, mode)
         This function is used to configure these pins as either INPUT or OUTPUT
