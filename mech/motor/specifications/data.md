@@ -30,4 +30,4 @@ Self-positioning torque (nM-m): 34.3<br>
 Shaft-type: Double D-type<br>
 Dimensions: 34*18*10mm<br>
 
-![GitHub Logo](/images/servo.jpg)
+<img src="servo.jpg">
