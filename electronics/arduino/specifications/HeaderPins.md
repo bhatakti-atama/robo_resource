@@ -12,8 +12,8 @@
   
    #### pinMode (pin_number, mode)
       This function is used to configure these pins as either INPUT or OUTPUT
-      pin_number is the pin which we want to use
-      mode is how you want to use it</p>
+      <p>pin_number is the pin which we want to use</p>
+      <p>mode is how you want to use it</p>
       pinMode (3, INPUT) sets the pin as an INPUT pin
       pinMode (3, OUTPUT) sets the pin as an OUTPUT pin
    #### digitalRead (pin_number)
