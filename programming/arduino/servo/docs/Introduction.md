@@ -10,6 +10,6 @@ To use this library:
 Servo motors have three wires: power, ground, and signal. The power wire is typically red, and should be connected to the 5V pin on the Arduino board. The ground wire is typically black or brown and should be connected to a ground pin on the Arduino board. The signal pin is typically yellow, orange or white and should be connected to a digital pin on the Arduino board. Note that servos draw considerable power, so if you need to drive more than one or two, you'll probably need to power them from a separate supply (i.e. not the +5V pin on your Arduino). Be sure to connect the grounds of the Arduino and external power supply together.
 
 ## Examples
-**Knob:** control the shaft of a servo motor by turning a potentiometer
+[**Knob:**](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/servo/examples/knob/Introduction.md) control the shaft of a servo motor by turning a potentiometer
 
-**Sweep:** sweeps the shaft of a servo motor back and forth
+[**Sweep:**](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/servo/examples/sweep/Introduction.md) sweeps the shaft of a servo motor back and forth
