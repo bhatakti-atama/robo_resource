@@ -18,3 +18,8 @@ The potentiometer should be wired so that its two outer pins are connected to po
 ## Schematic
 ![alt-text](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/servo/examples/knob/knob_schem.png)
 ### See Also
+[map()](https://www.arduino.cc/reference/en/language/functions/math/map/)
+
+[analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
+
+[Sweep]
