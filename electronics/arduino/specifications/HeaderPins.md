@@ -10,7 +10,7 @@
 +  Digital 2 through Digital 13 are normal digital pins. These pins can be used for both digital input (like telling if a button is pushed) and digital output (like          powering an LED). Digital 13 is also connected to the L LED. When used the L LED will also blink at the same time.
    To use these pins, following functions are used:
   
-  ...##### pinMode (pin_number, mode)
+   #### pinMode (pin_number, mode)
       <p>This function is used to configure these pins as either INPUT or OUTPUT.
       pin_number is the pin which we want to use
       mode is how you want to use it.
