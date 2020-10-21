@@ -31,3 +31,7 @@ Shaft-type: Double D-type<br>
 Dimensions: 34*18*10mm<br>
 
 <img src="servo.jpg">
+
+
+
+
