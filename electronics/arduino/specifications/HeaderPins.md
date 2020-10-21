@@ -12,7 +12,7 @@
   
    #### pinMode (pin_number, mode)
       <p>This function is used to configure these pins as either INPUT or OUTPUT.
-      pin_number is the pin which we want to use
-      mode is how you want to use it.
-      pinMode (3, INPUT) sets the pin as an INPUT pin.
-      pinMode (3, OUTPUT) sets the pin as an OUTPUT pin.</p>
+      <br>pin_number is the pin which we want to use </br>
+      <br>mode is how you want to use it </br>
+      <br>pinMode (3, INPUT) sets the pin as an INPUT pin </br>
+      <br>pinMode (3, OUTPUT) sets the pin as an OUTPUT pin </br> </p>
