@@ -49,3 +49,5 @@ Defines the LEDs color with the RGB system,  after specifying the LED number (fr
     pixels.show();
 
 Displays the applied values.
+
+### For more applications of controlling single leds click [here](https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/)
