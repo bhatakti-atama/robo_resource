@@ -13,4 +13,4 @@ Servo motors have three wires: power, ground, and signal. The power wire is typi
 ### See Also
 [map()](https://www.arduino.cc/reference/en/language/functions/math/map/)
 
-[knob](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/servo/examples/knob/Introduction.md)
+[knob](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/servo/examples/knob/Introduction.md)-Sweep the shaft of a servo motor back and forth
