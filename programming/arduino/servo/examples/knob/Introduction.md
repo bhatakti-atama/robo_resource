@@ -22,4 +22,4 @@ The potentiometer should be wired so that its two outer pins are connected to po
 
 [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
 
-[Sweep](https://github.com/SamyakJain2002/robo_resource/new/main/programming/arduino/servo/examples/sweep) -Sweep the shaft of a servo motor back and forth
+[Sweep](https://github.com/SamyakJain2002/robo_resource/new/main/programming/arduino/servo/examples/sweep) -Sweep the shaft of a servo motor back and forth across 180 degrees
