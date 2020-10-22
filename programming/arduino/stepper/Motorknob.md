@@ -1,5 +1,7 @@
 
 # MotorKnob
+In this example, a potentiometer (or other sensor) on analog input 0 is used to control the movement of a stepper motor using the Arduino Stepper Library. The stepper is controlled by with digital pins 8, 9, 10, and 11 for either unipolar or bipolar motors.
+
  A stepper motor follows the turns of a potentiometer
  (or other sensor) on analog input 0.
  
