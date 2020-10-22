@@ -1,6 +1,7 @@
 # Digital Pins
 <p> Two digital pin headers are along the top. These are the Digital Inputs or Outputs pins that are used to control a relay, 
-    blink an LED, switches or connect to more complex components. They use 5V for HIGH signals, and 0V for LOW signals. The maximum current per pin is 40mA. </p>
+    blink an LED, switches or connect to more complex components. They use 5V for HIGH signals, and 0V for LOW signals. The maximum current per pin is 40mA, 
+    but the recommended is 20mA. </p>
 <p> Starting from the right ... </p>
 
 +  The two pins labelled 0 (RX) and 1 (TX) are the two Serial pins that are used to send data to and from the Arduino to the USB-Serial translator chip. 
@@ -57,3 +58,6 @@
 + **RESET**(Power) - This is the same pin connected to the reset button.
 + **IOREF**(Power) - Used by shields (external pre-built Arduino compatible boards) to know what the IO voltage is. You can ignore this pin. 
 + **Unnamed pin**(Power) - Reserved for future use, don't connect to it!
+
+
+Here's a link to know more in-depth about the Arduino's Pins,like ICSP, SPI, I2C, https://www.circuito.io/blog/arduino-uno-pinout/
