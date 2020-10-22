@@ -22,3 +22,6 @@
       e.g. val = digitalRead (10) 
    #### digitalWrite (pin_number, value)
       This function writes, meaning gives the digital value to the specified pin given by pin_number. value takes in two values HIGH(1) or LOW (0)
+   
+   The above functions can be easily understood with the Blink LED example.
+   Some of the pins have ‘~’ in front of them. These are used for Pulse Width Modulation (PWM). To learn about PWM go the link below:
