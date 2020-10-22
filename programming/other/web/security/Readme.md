@@ -28,7 +28,7 @@ Like developers participate in hackathons and build side projects to sharpen the
 _And there are many more happening every weekend around the world..._
 You can signup at [CTFTime](https://ctftime.org/) to practise your skills at currently organised ctfs
 
-> # Note:
+> ## Note:
 > It is completely normal to get disheartened when in the beginning you are not able to solve a single challenge. It happens to everyone. Just keep trying and when the CTF ends, read the writeups of people that were able to solve the challenges (_these can be found in the discord, slack or IRC channels of the respective CTF organisers_).
 
 ---
@@ -39,7 +39,7 @@ These should get you started with the basics but since this a fast growing field
 _I will just name a few here so that you do not get overwhelmed because there is *soo many* awsome people making great content_
 
 1. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-2. [InsiderPHD](https://www.youtube.com/user/RapidBug)(This channel hasa a great [playlist of beginner specific videos](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw) as well a very good [playlist to learb burp](https://www.youtube.com/playlist?list=PLbyncTkpno5FwsKpcaiXBvmG2r75RLGo3) (It is an important tool that you will use quite often). Do check those out)
+2. [InsiderPHD](https://www.youtube.com/user/RapidBug)(This channel hasa a great [playlist of beginner specific videos](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw) as well a very good [playlist to learn burp](https://www.youtube.com/playlist?list=PLbyncTkpno5FwsKpcaiXBvmG2r75RLGo3) (It is an important tool that you will use quite often). Do check those out)
 3. [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
 4. [Vickie Li](https://twitter.com/vickieli7?lang=en)(_Her blogs are really good_)
 5. [Hacktivity hackerone](https://hackerone.com/hacktivity?order_field=latest_disclosable_activity_at)(_This is a collection of disclosed bugs on Hackerone_)
