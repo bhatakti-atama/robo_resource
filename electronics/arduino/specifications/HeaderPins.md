@@ -52,7 +52,7 @@
    
 
 ### Miscellaneous Pins
-+  **AREF (Digital Header)** - Analog REFerence pin. Used for advanced Analog sensor reading. It is sometimes used to set an external reference voltage (between 0 and 5    Volts) as the upper limit for the Analog input pins. More about use of AREF can be seen in this link, https://tronixstuff.com/2013/12/12/arduino-tutorials-chapter-
++  **AREF**(Digital) - Analog REFerence pin. Used for advanced Analog sensor reading. It is sometimes used to set an external reference voltage (between 0 and 5            Volts) as the upper limit for the Analog input pins. More about use of AREF can be seen in this link, https://tronixstuff.com/2013/12/12/arduino-tutorials-chapter-
 +  Two unlabelled pins(Digital) (the labels are on the other side), the SDA and SCL pins, which are used for connecting I2C type (e.g. temperature sensors) sensors. They    are connected inside the PCB to A5 and A4 (Analog Pins). Do not use these unless you have an I2C sensor.
 + **RESET**(Power) - This is the same pin connected to the reset button.
 + **IOREF**(Power) - Used by shields (external pre-built Arduino compatible boards) to know what the IO voltage is. You can ignore this pin. 
