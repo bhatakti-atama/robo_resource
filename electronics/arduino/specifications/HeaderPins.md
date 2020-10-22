@@ -30,7 +30,7 @@
 # Analog Pins
 <p>The Analog input pins are special pins that can read sensors. They can also be used as digital input/output pins. Each Analog pin can read a voltage between 0 and 5 V    (the same voltage used to power the Arduino). These pins can read the signal from an Analog sensor (like a temperature sensor) and convert it into a digital value 
    ( 0 - 1023, as we get 10-bit Analog-to-Digital Conversion in UNO) that we can read.</p>
-   **Do not connect a voltage higher than 5V to the Analog input pins or you could damage the!**  
+   **Do not connect a voltage higher than 5V to the Analog input pins or you could damage the!**
    These pins are used the same way digital pins are used i.e.  
    
    #### pinMode (pin_number, mode)
