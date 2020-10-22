@@ -45,7 +45,7 @@
 # Power Pins
    The power header is in the middle bottom. Used to borrow power from the USB or DC jack.  
    Starting from the *right* we have,  
-   + **VIN PIN** - Connected to the power input from the DC Jack, so it is going to range from 7 V to 12 VDC, depending on what is plugged into the DC Jack. If the DC        Jack is not powered, it will provide the 5V from the USB connection. Provides as much volt as is plugged in DC Power Jack.
+   + **VIN PIN** - Connected to the power input from the DC Jack, so it is going to range from 7 V to 12 VDC, depending on what is plugged into the DC Jack. If the DC        Jack is not powered, it will provide the 5V from the USB connection.You can supply voltage through this pin, or, if supplying voltage via the power jack, access it through this pin but it should be in **7 - 12 V** range. 
    + **GND** - You get two of these here, they are the common GND connection for all power and data.
    + **5V PIN** - This is the clean regulated 5V power that the Arduino runs on, provided from the DC jack (if plugged in) or USB connection (if DC is not plugged in).        Provides up to about 500mA current draw.
    + **3.3V PIN** - This is a clean regulated 3.3V power, sometimes you'll need exactly this voltage for some sensors. Provides up to about 100mA current draw.
