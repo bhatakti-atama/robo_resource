@@ -1,8 +1,7 @@
 # Digital Pins
-
 <p> Two digital pin headers are along the top. These are the Digital Inputs or Outputs pins that are used to control a relay, 
-    blink an LED, switches or connect to more complex components. They use 5V for HIGH signals, and 0V for LOW signals. </p>
-<p> Starting from the *right* ... </p>
+    blink an LED, switches or connect to more complex components. They use 5V for HIGH signals, and 0V for LOW signals. The maximum current per pin is 40mA. </p>
+<p> Starting from the right ... </p>
 
 +  The two pins labelled 0 (RX) and 1 (TX) are the two Serial pins that are used to send data to and from the Arduino to the USB-Serial translator chip. 
        <b> Don't connect anything to Digital 0 or 1 unless you are super sure because it will affect Arduino's ability to communicate!</b>
@@ -24,7 +23,11 @@
       This function writes, meaning gives the digital value to the specified pin given by pin_number. value takes in two values HIGH(1) or LOW (0)
    
    The above functions can be easily understood with the Blink LED example.  
-   Some of the pins (3,5,6,9,10,11) have ‘~’ in front of them. These are used for Pulse Width Modulation (PWM).  
+   Some of the pins (3,5,6,9,10,11) have ‘~’ in front of them. These are used for Pulse Width Modulation (PWM) and used with **analogWrite()** function.  
    To learn about PWM go this link, https://learn.sparkfun.com/tutorials/pulse-width-modulation  
 +  AREF - Analog REFerence pin. Used for advanced Analog sensor reading. It is sometimes used to set an external reference voltage (between 0 and 5 Volts) as the upper        limit for the Analog input pins. More about use of AREF can be seen in this link, https://tronixstuff.com/2013/12/12/arduino-tutorials-chapter-
 +  Two unlabelled pins (the labels are on the other side), the SDA and SCL pins, which are used for connecting I2C type (e.g. temperature sensors) sensors. They are          connected inside the PCB to A5 and A4 (Analog Pins). Do not use these unless you have an I2C sensor.
+
+# Analog Pins
+<p>The Analog input pins are special pins that can read sensors. They can also be used as digital input/output pins. Each Analog pin can read a voltage between 0 and 5 V    (the same voltage used to power the Arduino). These pins can read the signal from an Analog sensor (like a temperature sensor) and convert it into a digital value 
+   ( 0 - 1023, as we get 10-bit resolution in UNO) that we can read.</p>
