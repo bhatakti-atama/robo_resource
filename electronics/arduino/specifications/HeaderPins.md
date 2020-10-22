@@ -30,13 +30,15 @@
 # Analog Pins
 <p>The Analog input pins are special pins that can read sensors. They can also be used as digital input/output pins. Each Analog pin can read a voltage between 0 and 5 V    (the same voltage used to power the Arduino). These pins can read the signal from an Analog sensor (like a temperature sensor) and convert it into a digital value 
    ( 0 - 1023, as we get 10-bit Analog-to-Digital Conversion in UNO) that we can read.</p>
-   Do not connect a voltage higher than 5V to the Analog input pins or you could damage them!  
-   These pins are used the same way digital pins are used i.e.
-   ##### pinMode (pin_number, mode)
+   **Do not connect a voltage higher than 5V to the Analog input pins or you could damage the!**  
+   These pins are used the same way digital pins are used i.e.  
+   
+   #### pinMode (pin_number, mode)
    Specifies which pins will be used (pin_number) and in what mode (INPUT or OUTPUT) 
    #### analogRead (pin_number) 
    Function measure the voltage between 0-5V present at the specified pin and converts it into a digital value between 0 to 1023 which can be assigned to a variable.  
    e.g. val = analogRead (A0)
    #### analogWrite (pin_number, value)
    This function writes the value to the specified pin_number. Important thing to note is that the pins in this case are the PWM pins (3, 5, 6, 9, 10, 11) and value        ranges from 0 – 255.  
-   These functions can be easily understood using the Fade LED example.
+   
+   These functions can be easily understood using the Fade LED example.  
