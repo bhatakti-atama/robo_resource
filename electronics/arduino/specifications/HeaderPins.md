@@ -24,5 +24,6 @@
       This function writes, meaning gives the digital value to the specified pin given by pin_number. value takes in two values HIGH(1) or LOW (0)
    
    The above functions can be easily understood with the Blink LED example.  
-   Some of the pins have ‘~’ in front of them. These are used for Pulse Width Modulation (PWM).  
+   Some of the pins (3,5,6,9,10,11) have ‘~’ in front of them. These are used for Pulse Width Modulation (PWM).  
    To learn about PWM go this link, https://learn.sparkfun.com/tutorials/pulse-width-modulation  
++  AREF - Analog REFerence pin. Used for advanced Analog sensor reading. It is sometimes used to set an external reference voltage (between 0 and 5 Volts) as the upper        limit for the Analog input pins. More about use of AREF can be seen in this link, https://tronixstuff.com/2013/12/12/arduino-tutorials-chapter-
