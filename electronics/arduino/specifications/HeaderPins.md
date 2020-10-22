@@ -20,3 +20,5 @@
    #### digitalRead (pin_number)
       This function reads, or takes a digital value from the pin specified(pin_number) which can be assigned to a variable. The value is either HIGH (1) or LOW (0)  
       e.g. val = digitalRead (10) 
+   #### digitalWrite (pin_number, value)
+      This function writes, meaning gives the digital value to the specified pin given by pin_number. value takes in two values HIGH(1) or LOW (0)
