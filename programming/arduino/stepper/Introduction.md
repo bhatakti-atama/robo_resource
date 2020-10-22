@@ -1,0 +1,21 @@
+# Stepper Library
+This library allows you to control unipolar or bipolar stepper motors. To use it you will need a stepper motor, and the appropriate hardware to control it. For more on that, see [Tom Igoe's notes on steppers.](http://www.tigoe.com/pcomp/code/circuits/motors/stepper-motors/)
+
+## To use this library
+#include <Stepper.h>
+
+## Circuits
+Unipolar Steppers
+Bipolar Steppers
+
+## Functions
+* Stepper(steps, pin1, pin2)
+* Stepper(steps, pin1, pin2, pin3, pin4)
+* setSpeed(rpm)
+* step(steps)
+
+## Examples
+* Motor Knob: Control a highly accurate stepper motor using a potentiometer.
+* Stepper One Revolution: Turn the shaft one revolution clockwise and one counterclockwise.
+* Stepper One Step At A Time: Turn the shaft step by step to check the proper wiring of the motor.
+* Stepper Speed Control: Control the stepping speed with a potentiometer.
