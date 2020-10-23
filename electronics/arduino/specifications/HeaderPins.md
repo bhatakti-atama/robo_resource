@@ -42,3 +42,22 @@
    
    These functions can be easily understood using the Fade LED example.  
    To know how Analog pins can also be used as Digital I/O (Input/Output) pins,see this link http://waihung.net/arduino-tip-turn-your-analog-pins-into-digital-io/
+
+# Power Pins
+   The power header is in the middle bottom. Used to borrow power from the USB or DC jack.  
+   Starting from the *right* we have,  
+   + **VIN PIN** - Connected to the power input from the DC Jack, so it is going to range from 7 V to 12 VDC, depending on what is plugged into the DC Jack. If the DC        Jack is not powered, it will provide the 5V from the USB connection.You can supply voltage through this pin, or, if supplying voltage via the power jack, access it through this pin but it should be in **7 - 12 V** range. 
+   + **GND** - You get two of these here, they are the common GND connection for all power and data.
+   + **5V PIN** - This is the clean regulated 5V power that the Arduino runs on, provided from the DC jack (if plugged in) or USB connection (if DC is not plugged in).        Provides up to about 500mA current draw.
+   + **3.3V PIN** - This is a clean regulated 3.3V power, sometimes you'll need exactly this voltage for some sensors. Provides up to about 100mA current draw.
+   
+
+### Miscellaneous Pins
++  **AREF**(Digital) - Analog REFerence pin. Used for advanced Analog sensor reading. It is sometimes used to set an external reference voltage (between 0 and 5            Volts) as the upper limit for the Analog input pins. More about use of AREF can be seen in this link, https://tronixstuff.com/2013/12/12/arduino-tutorials-chapter-
++  Two unlabelled pins(Digital) (the labels are on the other side), the SDA and SCL pins, which are used for connecting I2C type (e.g. temperature sensors) sensors. They    are connected inside the PCB to A5 and A4 (Analog Pins). Do not use these unless you have an I2C sensor.
++ **RESET**(Power) - This is the same pin connected to the reset button.
++ **IOREF**(Power) - Used by shields (external pre-built Arduino compatible boards) to know what the IO voltage is. You can ignore this pin. 
++ **Unnamed pin**(Power) - Reserved for future use, don't connect to it!
+
+
+Here's a link to know more in-depth about the Arduino's Pins,like ICSP, SPI, I2C, https://www.circuito.io/blog/arduino-uno-pinout/
