@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #Reading the image from the present directory
-image = cv2.imread("0.jpeg")
+image = cv2.imread("0.jpg")
 #Resizing the image for compatibility
 image = cv2.resize(image, (500,600))
 
