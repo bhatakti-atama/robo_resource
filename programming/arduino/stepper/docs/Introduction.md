@@ -6,7 +6,8 @@ This library allows you to control unipolar or bipolar stepper motors. To use it
 
 ## Circuits
 Unipolar Steppers
-Bipolar Steppers
+
+[Bipolar Steppers](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/docs/Bipolar.md)
 
 ## Functions
 * Stepper(steps, pin1, pin2)
