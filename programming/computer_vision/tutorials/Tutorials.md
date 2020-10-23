@@ -1,4 +1,4 @@
-### Tutorials
+### Official Tutorials
 
 
 * [Introduction to OpenCV](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html) - build and install OpenCV on your computer
@@ -18,3 +18,24 @@
 * [Images stitching (stitching module)](https://docs.opencv.org/master/d0/d33/tutorial_table_of_content_stitching.html) - create panoramas and more using stitching module
 * [OpenCV iOS](https://docs.opencv.org/master/d3/dc9/tutorial_table_of_content_ios.html) - running OpenCV on an iDevice
 * [GPU-Accelerated Computer Vision (cuda module)](https://docs.opencv.org/master/da/d2c/tutorial_table_of_content_gpu.html) - utilizing power of video card to run CV algorithms
+
+
+
+
+### Youtube Tutorials
+
+
+* [Introduction to Computer Vision](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm) - These tutorials by Udacity will give you basic knowledge of computer vision.
+* [Computer Vision Tutorial](https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk) - These tutorials are regarding basic projects of computer vision.
+* [Creating Face Detection System And Motion Detector Using OpenCV](https://youtu.be/-ZrDjwXZGxI) - This tutorial by Edureka will guide you to make Face Detection System.
+* [LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects](https://youtu.be/WQeoO7MI0Bs) - This tutorial will give you basic concepts of OPENCV and make small projects using them.
+
+
+
+
+### Other Courses
+
+* [Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs](https://www.udemy.com/share/1013KaAEMZcFtRRXoD/) - Udemy Paid Course- Become a Wizard of all the latest Computer Vision tools that exist out there. Detect anything and create powerful apps.
+* [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/share/10143yAEMZcFtRRXoD/) - Udemy Paid Course - Learn the latest techniques in computer vision with Python , OpenCV , and Deep Learning!
+* [Master Computer Vision™ OpenCV4 in Python with Deep Learning](https://www.udemy.com/share/101XPiAEMZcFtRRXoD/) - Udemy Paid Course - Master OpenCV4 like a pro while learning Dlib, Deep Learning Computer Vision (Keras, TensorFlow & Caffe) + 21 Projects!
+* [Complete Python Based Image Processing and Computer Vision](https://www.udemy.com/share/101tkmAEMZcFtRRXoD/) - Udemy Paid Course - Computer Vision Python : Image Recognition & Manipulation : Deep Learning Computer Vision Python : Image Analysis Python
