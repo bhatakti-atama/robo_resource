@@ -13,7 +13,7 @@ This library allows you to control unipolar or bipolar stepper motors. To use it
 * Stepper(steps, pin1, pin2)
 * Stepper(steps, pin1, pin2, pin3, pin4)
 * [setSpeed(rpm)](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/docs/SetSpeed.md)
-* step(steps)
+* [step(steps)](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/docs/StepperStep.md)
 
 ## Examples
 * [Motor Knob](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/examples/Motorknob.md): Control a highly accurate stepper motor using a potentiometer.
