@@ -10,7 +10,7 @@
 
 
 
-<h2> SG90</h2>
+<h2> SG & MG</h2>
 
 |S. no.|	Model          |	Operating voltage	|Rotational degree |	Dimesions      | Operating Speed @4.8V and @6.6V res. | Stall torque @4.8V |  
 |------|-----------------|--------------------|------------------|-----------------|--------------------------------------|--------------------|
