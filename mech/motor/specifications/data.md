@@ -19,18 +19,6 @@
 |3.	   |MG996 servo motor|	4.8-6.6V		      |                  |40.7*19.7*42.9mm |	0.19sec/60° and 0.15sec/60°         |9.4 kg-cm           |
 
 
-<h2>28BYJ-48 stepper motor </h2>
-Rated voltage(V):  5V<br>
-Rated current:  500mA<br>
-In-Traction frequency:  >600Hz <br>
-Out-Traction frequency : >1000Hz<br>
-In-traction torque (nM-m): 34.3<br>
-Self-positioning torque (nM-m): 34.3<br>
- Friction Torque(nM-m: 600-1200<br>
-Shaft-type: Double D-type<br>
-Dimensions: 34*18*10mm<br>
-
-<img src="servo.jpg">
 
 
 
