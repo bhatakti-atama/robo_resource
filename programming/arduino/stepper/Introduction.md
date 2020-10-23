@@ -16,6 +16,6 @@ Bipolar Steppers
 
 ## Examples
 * [Motor Knob](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/examples/Motorknob.md): Control a highly accurate stepper motor using a potentiometer.
-* Stepper One Revolution: Turn the shaft one revolution clockwise and one counterclockwise.
+* [Stepper One Revolution](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/examples/stepperOneRevolution.md): Turn the shaft one revolution clockwise and one counterclockwise.
 * Stepper One Step At A Time: Turn the shaft step by step to check the proper wiring of the motor.
 * Stepper Speed Control: Control the stepping speed with a potentiometer.
