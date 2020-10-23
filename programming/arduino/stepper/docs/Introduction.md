@@ -12,7 +12,7 @@ This library allows you to control unipolar or bipolar stepper motors. To use it
 ## Functions
 * Stepper(steps, pin1, pin2)
 * Stepper(steps, pin1, pin2, pin3, pin4)
-* setSpeed(rpm)
+* [setSpeed(rpm)](https://github.com/SamyakJain2002/robo_resource/blob/main/programming/arduino/stepper/docs/SetSpeed.md)
 * step(steps)
 
 ## Examples
