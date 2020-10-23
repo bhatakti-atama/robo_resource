@@ -27,7 +27,7 @@ To get used to the basic apis and functionality that come along with node, refer
 
 ## Advanced 
 
-Becoming a node developer requires you to get used to using modules. You can install modules using *npm*(_Node package manager_)\
+Becoming a node developer requires you to get used to using modules. You can install modules using **npm**(_Node package manager_)\
 The most well known modules is [Express](https://expressjs.com/) that helps you to quickly start developing a node app. Resources to learn Express are:
 
 1. [Official tutorial with examples](https://expressjs.com/en/starter/hello-world.html)
