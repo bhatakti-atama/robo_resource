@@ -48,3 +48,6 @@ Here are some resource link in the table that you may use:-<br/>
 | Icons           |[Eva Icons](https://akveo.github.io/eva-icons/#/)       |     x                                                           |
 | Fonts           |[Google Fonts](https://fonts.google.com/)               | [Click here](https://www.youtube.com/watch?v=Z3JR6mEWEEo) to use|
 
+---
+
+Some fun *game-like* resources for  understanding flexbox and grid layout are [flexbox froggy](https://flexboxfroggy.com/) and [grid garden](https://cssgridgarden.com/)
