@@ -1,6 +1,6 @@
 # Resources For Game Development(Basic to Advanced)#
 
-## First Person Movement##
+## First Person Movement
 
 If you are just starting the game development, then getting clear with the movement of your player should be your first step.
 
@@ -10,7 +10,8 @@ To know about how to get input and use it to move your player,
 
 
  
-##FPS Game Shoooting and Reloading##
+FPS Game Shoooting and Reloading
+---------------------------------
 
 The second step to learn about game dev is to get comfortable with the animations and raycasts.
 
@@ -20,7 +21,8 @@ You will not only know how to add animations like shooting, Reloading but also k
 
 
 
-##Multiplayer FPS##
+Multiplayer FPS
+------------------
 
 Now as you know the basics of game development, you would like to improve your skills by making an advanced level multiplayer game.
 
