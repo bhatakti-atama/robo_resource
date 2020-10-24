@@ -25,5 +25,14 @@ This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry P
 </br>
 
 ### Hardware Specifications :
-*for Raspberry Pi 4*
--
+[*for Raspberry Pi 4*](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/?resellerType=home)
+- Raspberry Pi 4 comes with 64 bit quad core processor ( *Broadcom BCM2711B0 quad-core A72* )
+- It can provide a processing speed of 1.5 GHz and upto 8 gigs of RAM :astonished: :astonished:
+- The board is equipped with Broadcom VideoCore VI GPU that provides a significant boost over its predecessors.
+- **Ports**: 2 × micro-HDMI 2.0, 3.5 mm analogue audio-video jack, 2 × USB 2.0, 2 × USB 3.0, Gigabit Ethernet, Camera Serial Interface (CSI), Display Serial Interface (DSI)
+- Two USB 3.0 ports offer high-speed connectivity for external devices including storage and accelerator hardware.
+- **GPIO**: 40-pin GPIO header, populated
+- It supports Bluetooth 5.0 and 2.4 GHz and 5 GHz 802.11b/g/n/ac wireless LAN and has MicroSD storage.
+- The two micro-HDMI connectors enable Raspberry Pi 4 to drive two 4K displays at up to 4Kp30, or a single display at up to 4Kp60.
+
+You can find specs for various previous models [here](https://magpi.raspberrypi.org/articles/raspberry-pi-specs-benchmarks)
