@@ -49,3 +49,25 @@ Any of the GPIO pins can be designated (in software) as an input or output pin a
 </br>
 
 You can find detailed info about GPIO pins [here](https://www.raspberrypi.org/documentation/usage/gpio/README.md).
+
+---
+
+So we understood the basic structure of Raspberry Pi , but how are we gonna use it :question:
+
+Well , then my question is
+
+How do we use a PC :question:
+
+.
+
+.
+
+.
+
+.
+
+**An Operating System**
+
+The same is required for a Raspberry Pi.It runs the official Lunix distro called *Raspbian*.Various other operating systems can be used on Pi like RISC, Kodi Media Center, Ubuntu Mate and classroom management.In fact you can even run your own Windows 10 on it. How cool :sunglasses::sunglasses:
+
+So lets setup :electric_plug: this mini PC try some awesome stuff with it. :computer:
