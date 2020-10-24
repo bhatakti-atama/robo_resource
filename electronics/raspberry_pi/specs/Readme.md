@@ -15,6 +15,7 @@ This is how a Raspberry Pi looks like
 - **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
 
 - **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to Raspberry Pi.
+---
 
 This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home)*)
 
