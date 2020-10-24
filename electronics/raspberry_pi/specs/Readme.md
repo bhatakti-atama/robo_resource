@@ -45,7 +45,7 @@ GPIO pins are arguably one of the most powerful features of the board.A 40-pin G
 </br>
 Any of the GPIO pins can be designated (in software) as an input or output pin and used for a wide range of purposes.
 <br/>
-<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO(1).png" width="400" >
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO (1).png" width="400" >
 </br>
 
 You can find detailed info about GPIO pins [here](https://www.raspberrypi.org/documentation/usage/gpio/README.md).
