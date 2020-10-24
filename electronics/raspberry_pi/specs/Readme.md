@@ -1,10 +1,6 @@
-This is how an actual Raspberry Pi looks like.   (*[Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home)*)
+This is how a Raspberry Pi looks like
 
-
-<br/>
-<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="400" >
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/pi4.png" width="400" >
-</br>
 
 - **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
 
@@ -19,3 +15,14 @@ This is how an actual Raspberry Pi looks like.   (*[Raspberry Pi 4](https://www.
 - **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
 
 - **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to Raspberry Pi.
+
+This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home)*)
+
+
+<br/>
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="400" >
+</br>
+
+### Hardware Specifications :
+*for Raspberry Pi 4*
+-
