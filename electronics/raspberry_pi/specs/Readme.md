@@ -36,3 +36,16 @@ This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry P
 - The two micro-HDMI connectors enable Raspberry Pi 4 to drive two 4K displays at up to 4Kp30, or a single display at up to 4Kp60.
 
 You can find specs for various previous models [here](https://magpi.raspberrypi.org/articles/raspberry-pi-specs-benchmarks)
+
+---
+
+GPIO pins are arguably one of the most powerful features of the board.A 40-pin GPIO header is found on all current Raspberry Pi boards (unpopulated on Pi Zero and Pi Zero W).
+<br/>
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO.png" width="400" >
+</br>
+Any of the GPIO pins can be designated (in software) as an input or output pin and used for a wide range of purposes.
+<br/>
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO(1).png" width="400" >
+</br>
+
+You can find detailed info about GPIO pins [here](https://www.raspberrypi.org/documentation/usage/gpio/README.md).
