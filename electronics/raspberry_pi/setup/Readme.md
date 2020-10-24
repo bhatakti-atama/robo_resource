@@ -13,4 +13,5 @@ Let’s connect up your Raspberry Pi and get it running.
 
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/p.png" width="400" >    
 - A pop-up will appear and follow the step by step instructions to setup your PC and then it will reboot.
-- Your setup is complete now and you are free to play around with your new PC. 
+- Your setup is complete now and you are free to play around with your new PC.
+- It will be quite easy to work with it if you are familiar with linux , if not [this](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5) would be helpful 
