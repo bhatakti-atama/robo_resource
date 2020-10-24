@@ -13,5 +13,3 @@ Introduced in 2016, Raspberry Pi 3 Model B comes with a quad core processor that
 So lets jump in and explore this awesome thing called Raspberry Pi in a bit detail.
 
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/pi-plug-in.gif" width="500" >
-
-dkklkfl
