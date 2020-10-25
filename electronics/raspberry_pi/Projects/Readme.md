@@ -3,7 +3,11 @@ Ok, so now you have a small computer that runs a bunch of free software. What ca
 Well , the applications of Raspberry Pi are so diverse and amazing that you won't be able  to stop yourself to try them out.
 </br>
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/t.jpg" width="300" >  </br>
+
+
 An Ocean of such projects is just a [click](https://www.google.com/search?rlz=1C1CHBF_enIN871IN871&ei=AK2UX9DSDKiO4-EP2_6BsAg&q=projects+on+raspberry+pi&oq=projects+on+r&gs_lcp=CgZwc3ktYWIQARgAMgUIABDJAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoICAAQyQMQkQI6BQgAEJECOgQIABBDOggIABCxAxCDAToFCAAQsQM6CAguELEDEIMBOgcILhCxAxBDOgoIABCxAxDJAxBDOgUILhCxAzoECC4QQzoECAAQCjoJCAAQyQMQFhAeOgYIABAWEB5Qi9WdAVit_Z0BYOqingFoAnAAeACAAcMCiAHuFZIBCDAuMTQuMC4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab) away.
+
+
 </br>
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/ss.webp" width="300" >  </br>
 Here are a few sources where you can find details about them:
