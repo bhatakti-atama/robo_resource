@@ -9,7 +9,7 @@
 - [Raspberry Pi Tutorials (Tech Erudio)](https://www.youtube.com/watch?v=Jj4pjfU_-jo&list=PLsa31gkyINsly6N_usaeHrtDPYnwxO-1Y&index=2)
 - [Raspberry Pi Tutorials (TheZanShow)](https://www.youtube.com/watch?v=RlUhDUJfTe8&list=PLNnwglGGYoTvy37TSGFlv-aFkpg7owWrE&index=2)
 - [Raspberry Pi Workshop](https://www.youtube.com/playlist?list=PLPK2l9Knytg67nkvpnnl81ossAHfOgmqU)
--:star: [Pi Ultimate Guide](https://www.udemy.com/course/pi-ultimate-guide/)
+- :star: [Pi Ultimate Guide](https://www.udemy.com/course/pi-ultimate-guide/)
 - [Raspberry Pi Full Stack ](https://www.udemy.com/course/raspberry-pi-full-stack-raspbian/)(*for professional level*)
 
 
