@@ -1,4 +1,4 @@
-#### Here are some important resources and tutorials for Raspberry Pi 
+### Here are some important resources and tutorials for Raspberry Pi 
 ---
 
 
