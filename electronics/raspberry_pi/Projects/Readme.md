@@ -10,6 +10,8 @@ An Ocean of such projects is just a [click](https://www.google.com/search?rlz=1C
 
 </br>
 <img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/ss.webp" width="300" >  </br>
+
+
 Here are a few sources where you can find details about them:
 - [Laser Tripwire , Line Follower,Fart Detector:joy::joy:...](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=raspberry-pi)
 - [Magic Mirror Alarm clock,AQI Monitor,Wether Forecast Device...](https://www.hackster.io/raspberry-pi/projects)
