@@ -17,4 +17,4 @@ Here are a few sources where you can find details about them:
 - [Magic Mirror Alarm clock,AQI Monitor,Wether Forecast Device...](https://www.hackster.io/raspberry-pi/projects)
 - [Media Server,Parent Detector,FM Radio Station...](https://www.hackster.io/raspberry-pi/projects)
 - [Web Server,Security System...](https://www.ionos.com/digitalguide/server/know-how/raspberry-pi-projects/)
-- And a lot lot more [herer](https://google.com)
+- And a lot lot more [here](https://google.com)
