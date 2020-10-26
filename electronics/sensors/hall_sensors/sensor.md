@@ -1,16 +1,17 @@
 | Sensor                                            |  Voltage    |  Current output     |
 |---------------------------------------------------|-------------|---------------------|
-|49E AH49E Linear Hall Effect Sensor                | 4.5 V to 6 V|                     |
+|49E AH49E Linear Hall Effect Sensor                | 4.5 V to 6 V|       -             |
 |A3144 Hall effect sensor                           |4.5 V to 24 V| Open-Collector 25 mA| 
 
 <h3>Four Pin Hall Sensor</h3>
-|Part Number  |Operation Temp     |   Operation Voltage  |  Output Current  |  Function Description                        |
-|-------------|-------------------|----------------------|------------------|----------------------------------------------|
-|WSH41FC      | 20-125°C          |   2.8~20V            | 400mA            |DC brushless Fan with FG                      | 
-|WSH412       | 20-125°C          | 2.8~20V              | 600mA            |Fan with Lock- protection , Auto-restart andFG|
-|WSH413       | 20-125°C          | 2.8~36V              |500mA             |Fan with Lock- protection , Auto-restart      |
-|WSH415       | 20-100°C          |2.8~28V               |600mA             |DC brushless Fan                              |
-|WSH416       | 40-100°C          |2.8~20V               |1.0A              |Fan with Thermal Protection and Auto-restart  |
+
+|Part Number  |Operation Temp     |   Operation Voltage  |  Output Current  |  Function Description                         |
+|-------------|-------------------|----------------------|------------------|-----------------------------------------------|
+|WSH41FC      | 20-125°C          |   2.8~20V            | 400mA            |DC brushless Fan with FG                       | 
+|WSH412       | 20-125°C          | 2.8~20V              | 600mA            |Fan with Lock- protection , Auto-restart andFG |
+|WSH413       | 20-125°C          | 2.8~36V              |500mA             |Fan with Lock- protection , Auto-restart       |
+|WSH415       | 20-100°C          | 2.8~28V              |600mA             |DC brushless Fan                               |
+|WSH416       | 40-100°C          | 2.8~20V              |1.0A              |Fan with Thermal Protection and Auto-restart   |
 
 
 
