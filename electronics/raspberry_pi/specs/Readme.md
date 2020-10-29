@@ -21,7 +21,7 @@ This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry P
 
 
 <br/>
-<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="400" >
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="500" >
 </br>
 
 ### Hardware Specifications :
