@@ -21,7 +21,7 @@ This is the latest model of Raspberry Pi launched in June 2019.   (*[Raspberry P
 
 
 <br/>
-<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="500" >
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/rpi4.webp" width="400" >
 </br>
 
 ### Hardware Specifications :
@@ -41,7 +41,7 @@ You can find specs for various previous models [here](https://magpi.raspberrypi.
 
 GPIO pins are arguably one of the most powerful features of the board.A 40-pin GPIO header is found on all current Raspberry Pi boards (unpopulated on Pi Zero and Pi Zero W).
 <br/>
-<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO.png" width="400" >
+<img src="https://github.com/nomaan-2k/robo_resource/blob/main/electronics/raspberry_pi/repo_data/GPIO.png" width="500" >
 </br>
 Any of the GPIO pins can be designated (in software) as an input or output pin and used for a wide range of purposes.
 <br/>
