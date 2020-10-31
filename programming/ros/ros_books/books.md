@@ -1,3 +1,6 @@
+[A Gentle Indtroduction to ROS](https://www.cse.sc.edu/~jokane/agitr/) Best book for beginers if comfortable with c++
+
+
 Roboter mit ROS - Bots konstruieren und mit Open Source programmieren - First Edition German (2020-January 30., K, Python, C++)https://dpunkt.de/produkt/roboter-mit-ros/
 
 ROS 2 in 5 days (2019-March 14, C++)https://www.theconstructsim.com/ros-in-5-days-book-page/?utm_source=wiki.ros&utm_medium=books&utm_campaign=ros_perception
