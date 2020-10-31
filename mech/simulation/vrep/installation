@@ -1,0 +1,10 @@
+V-REP installation
+V-REP is cross-platform and works on Windows, Linux and macOS. Download the educational version V-REP Pro EDU for your particular system.
+On Linux
+Download the archive .tar.gz, unpack it, navigate to the unpacked directory in the terminal and run the simulator calling the script: ./vrep.sh
+On Windows
+Download the .exe installation file, run it and follow the instructions in the installer. Most likely you will be prompted to install Visual C Redistributable package. You can run the V-REP simulator by launching the vrep from desktop. When running V-REP you may see a firewall or antivirus popup as the V-REP simulator uses UDP and TCP/IP sockets for communication which is okay.
+On macOS
+Download the archive .zip, unpack it, navigate to the unpacked directory and run the simulator by launching vrep
+
+ref link: https://cw.fel.cvut.cz/b191/courses/b4m36uir/tutorials/vrep_tut
