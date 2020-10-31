@@ -1,9 +1,9 @@
 Here is the list of the websites:
-1. Machine Learning Mastery
-2. Elite data science
-3. KDnuggets
-4. Kaggle
-5. Reddit — r/datascience
+1. [Machine Learning Mastery](https://machinelearningmastery.com/)
+2. [Elite data science](https://elitedatascience.com/)
+3. [KDnuggets](https://www.kdnuggets.com/)
+4. [Kaggle](https://www.kaggle.com/)
+5. [Reddit — r/datascience](https://www.reddit.com/r/datascience/)
 6. Towards Data Science
 7. Analytics Vidhya
 8. Data Science Dojo
