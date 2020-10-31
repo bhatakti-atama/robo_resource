@@ -1,2 +1,0 @@
-Database Control Asset(FOR MULTIPLAYER GAMES):- 
-	https://assetstore.unity.com/packages/tools/network/database-control-free-41337
