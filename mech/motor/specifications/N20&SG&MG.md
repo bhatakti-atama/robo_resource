@@ -1,6 +1,11 @@
 <h1>MOTOR</h1>
 <h2>N20</h2>
 
+N20 size specs:
+  1. Fuselage Dimensions: 15 x 12 x 10 (LxWxH) mm
+  2. Gearbox Dimensions: 10 x 12 x 10 (LxWxH) mm
+Fuselage is another word for body dimension withou the gearbox and shaft in front. Adding issue to add a descriptive image in future.
+
 |S. no. |	Motor                    |	Output speed  |	Operating voltage |size    | Shaft type        | Price     | Stall current | No-load current| Rated voltage|
 |-------|--------------------------|----------------|-------------------|------- |-------------------|-----------|---------------|----------------|--------------|
 |1.     |	N20 6V Micro Metal Motor | 100RPM         | 3-6 V             |3*10mm  | D type            |Rs 560-650 |1A             | 10mA           | DC 6V        |
