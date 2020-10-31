@@ -4,19 +4,19 @@ Here is the list of the websites:
 3. [KDnuggets](https://www.kdnuggets.com/)
 4. [Kaggle](https://www.kaggle.com/)
 5. [Reddit — r/datascience](https://www.reddit.com/r/datascience/)
-6. Towards Data Science
-7. Analytics Vidhya
-8. Data Science Dojo
-9. Data Science 101
-10. Geeks for Geeks — Machine Learning
-11. Google News — Data Science
-12. Datafloq
-13. Domino Data Science Blog
-14. data36
-15. Revolutions
-16. Edwin Chen
-17. Pete Warden’s Blog
-18. InsideBIGDATA
-19. Google AI Blog
-20. Nature
-21. Stack Overflow
+6. [Towards Data Science](https://towardsdatascience.com/)
+7. [Analytics Vidhya](https://www.analyticsvidhya.com/)
+8. [Data Science Dojo](https://datasciencedojo.com/)
+9. [Data Science 101](https://101.datascience.community/)
+10. [Geeks for Geeks — Machine Learning](https://www.geeksforgeeks.org/machine-learning/)
+11. [Google News — Data Science](https://news.google.com/topics/CAAqBwgKMNzugQswpJT-Ag?hl=en-IN&gl=IN&ceid=IN:en)
+12. [Datafloq](https://datafloq.com/)
+13. [Domino Data Science Blog](https://blog.dominodatalab.com/)
+14. [data36](https://data36.com/)
+15. [Revolutions](https://blog.revolutionanalytics.com/data-science/)
+16. [Edwin Chen](http://blog.echen.me/)
+17. [Pete Warden’s Blog](https://petewarden.com/)
+18. [InsideBIGDATA](https://insidebigdata.com/)
+19. [Google AI Blog](https://ai.googleblog.com/)
+20. [Nature](https://www.nature.com/)
+21. [Stack Overflow](https://stackoverflow.com/)
