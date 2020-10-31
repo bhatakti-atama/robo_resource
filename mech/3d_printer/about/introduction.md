@@ -23,10 +23,14 @@ Polylactic Acid(PLA)
 A biodegradable thermoplastic, PLA is made from renewable resources like corn starch or sugarcane. Typically used in medical implants , food packaging, and disposable tableware.
 It is used because it is cheap, good precision and have high level of detail.
 
+cost around 1300 inr per kg
+
 Polyethylene Terephthalate Glycol(PETG)
 ---------------------------------------
 Polyethylene terephthalate (PET) is the most commonly used plastic in the world. It is used in water bottles, clothing fibres, and food containers. Glycol makes PETG more durable.
 It is impact resistant, chemical resistant and also have high strength.
+
+Cost around 1800 inr per kg
 
 Thermoplastic polyurethane(TPU)
 -------------------------------
@@ -37,3 +41,9 @@ Acrylonitrile Styrene Acrylate(ASA)
 ----------------------------------
 ASA is a UV-stable thermoplastic used to build strong and long-lasting functional parts. It is weather resistant and typically used in outdoor and automotive applications.
 It is used because it is impact resistant, weather resistant and is UV stable.
+
+Acrylonitrile Butadiene Styrene(ABS)
+----------------------------------
+ABS is another commonly used 3D printer material. Best used for making durable parts that need to withstand higher temperatures. In comparison to PLA filament, ABS plastic is less "brittle" and more "ductile." It can also be post-processed with acetone to provide a glossy finish. When 3D printing with ABS filament, a heated printing surface is recommended, as ABS plastic will contract when cooled leading to warped parts.
+
+cost around 1200 inr per kg
