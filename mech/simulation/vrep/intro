@@ -1,0 +1,9 @@
+# Basics about V-Rep
+V-REP - the Virtual Robot Experimentation Platform - is a 3D robot simulation software, with integrated development environment, that allows you to model, edit, program and simulate any robot or robotic system (e.g. sensors, mechanisms, etc.).
+
+It offers a multitude of functionality that can be easily integrated and combined through an exhaustive API and script functionality. V-REP supports 2 different physics engines (Bullet and ODE), handling of the inverse/forward kinematics of any type of mechanism, proximity sensor simulation, camera sensor simulation with many built-in image processing filters, path planning, minimum mesh-mesh distance calculation, surface cutting simulation, graphing, etc.
+
+V-REP is used for remote monitoring, hardware control, fast prototyping and verification, fast algorithm development / parameter adjustment, safety double-checking, robotics-related education or factory automation simulations.
+
+other ref link: http://www.manoonpong.com/MOROCO/V-REP%20Lecture.pdf
+
