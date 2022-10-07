@@ -19,3 +19,11 @@ https://youtu.be/0BxVPCInS3M?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
 4.ROS Basic Tutorials from Shawn Chen
 
 https://youtu.be/ehtUb55Rmmg?list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC
+
+5. Info about various websites for learning ROS
+
+https://robocademy.com/2020/04/28/top-free-tutorials-to-learn-ros-robot-operating-system/
+
+6. Very nice ROS tutorials but paid
+
+https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/
